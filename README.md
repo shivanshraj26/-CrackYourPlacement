@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
