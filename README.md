@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/shivanshraj26/CrackYourPlacement/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
